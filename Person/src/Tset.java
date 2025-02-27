@@ -12,6 +12,9 @@ public class Tset {
 		System.out.println(taro.age);
 		System.out.println(taro.phoneNumber);
 		System.out.println(taro.address);
+		taro.talk();
+		taro.walk();
+		taro.run();
 
 		Person jiro=new Person();
 		jiro.name="木村次郎";
