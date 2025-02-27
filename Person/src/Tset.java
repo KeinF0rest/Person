@@ -22,6 +22,13 @@ public class Tset {
 
 		System.out.println(hanako.name);
 		System.out.println(hanako.age);
+
+		Person kein=new Person();
+		kein.name="工藤慶胤";
+		kein.age=23;
+
+		System.out.println(kein.name);
+		System.out.println(kein.age);
 	}
 
 }
