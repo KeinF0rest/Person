@@ -1,9 +1,9 @@
 
 public class Person {
 
-	public static void main(String[] args) {
+	public String name=null;
+	public int age=0;
 
 
-	}
 
 }
