@@ -16,7 +16,12 @@ public class Tset {
 		System.out.println(jiro.name);
 		System.out.println(jiro.age);
 
+		Person hanako=new Person();
+		hanako.name="鈴木花子";
+		hanako.age=16;
 
+		System.out.println(hanako.name);
+		System.out.println(hanako.age);
 	}
 
 }
